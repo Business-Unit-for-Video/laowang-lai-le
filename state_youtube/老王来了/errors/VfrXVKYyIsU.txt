@@ -1,0 +1,6 @@
+video_id: VfrXVKYyIsU
+title: 老罗回国有点心虚，西贝会不会搞罗永浩？｜老贾面色有点黑｜福建舰完成历史性弹射试验
+url: https://www.youtube.com/watch?v=VfrXVKYyIsU
+tab: streams
+time: 2026-07-29 13:58:16
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/VfrXVKYyIsU.%(ext)s', 'https://www.youtube.com/watch?v=VfrXVKYyIsU'])

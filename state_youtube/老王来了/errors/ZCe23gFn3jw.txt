@@ -1,0 +1,6 @@
+video_id: ZCe23gFn3jw
+title: 中国首富：陈志｜中国首叛：佘智江｜国家不会让你知道的真相
+url: https://www.youtube.com/watch?v=ZCe23gFn3jw
+tab: streams
+time: 2026-07-29 13:08:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ZCe23gFn3jw.%(ext)s', 'https://www.youtube.com/watch?v=ZCe23gFn3jw'])

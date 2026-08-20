@@ -1,0 +1,6 @@
+video_id: QUQDK6wefKg
+title: 测试直播信号：聊聊得克萨斯
+url: https://www.youtube.com/watch?v=QUQDK6wefKg
+tab: streams
+time: 2026-07-29 13:33:51
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/QUQDK6wefKg.%(ext)s', 'https://www.youtube.com/watch?v=QUQDK6wefKg'])

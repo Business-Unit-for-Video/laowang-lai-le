@@ -1,0 +1,6 @@
+video_id: 83R7_4pxaAU
+title: VIP25：江油上街的真相与费拉洼地的基层组织构造｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=83R7_4pxaAU
+tab: streams
+time: 2026-07-29 15:16:18
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/83R7_4pxaAU.%(ext)s', 'https://www.youtube.com/watch?v=83R7_4pxaAU'])

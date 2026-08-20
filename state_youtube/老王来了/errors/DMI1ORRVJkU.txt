@@ -1,0 +1,6 @@
+video_id: DMI1ORRVJkU
+title: 一小时后，18:30多伦多时间，老王竞选频道直播！不见不散！
+url: https://www.youtube.com/watch?v=DMI1ORRVJkU
+tab: streams
+time: 2026-08-02 22:13:01
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/DMI1ORRVJkU.%(ext)s', 'https://www.youtube.com/watch?v=DMI1ORRVJkU'])

@@ -1,0 +1,6 @@
+video_id: px9nW2aL4_s
+title: 李嘉诚再次选边站，遭到中共痛批！｜痛苦的婚外情少妇来信
+url: https://www.youtube.com/watch?v=px9nW2aL4_s
+tab: streams
+time: 2026-07-29 19:37:55
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/px9nW2aL4_s.%(ext)s', 'https://www.youtube.com/watch?v=px9nW2aL4_s'])

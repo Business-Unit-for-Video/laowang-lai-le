@@ -1,0 +1,6 @@
+video_id: 9YYOfHp7gL4
+title: 论出入境新规：管制护照和黄金个人交易只是时间问题｜为什么胡锦涛全家被毒噶应该是谣言｜硅谷居民的二胎恐惧症与儒家的社达阉割｜该离婚时能离婚也是一种能力｜鬼上身的研究｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=9YYOfHp7gL4
+tab: streams
+time: 2026-08-02 00:19:41
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/9YYOfHp7gL4.%(ext)s', 'https://www.youtube.com/watch?v=9YYOfHp7gL4'])

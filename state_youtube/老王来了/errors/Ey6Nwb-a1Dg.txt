@@ -1,0 +1,6 @@
+video_id: Ey6Nwb-a1Dg
+title: 多伦多线下大聚会及pink team召集活动｜8月1日周六上午12:00奥罗拉足球俱乐部大草坪不见不散
+url: https://www.youtube.com/watch?v=Ey6Nwb-a1Dg
+tab: streams
+time: 2026-07-31 22:16:10
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Ey6Nwb-a1Dg.%(ext)s', 'https://www.youtube.com/watch?v=Ey6Nwb-a1Dg'])

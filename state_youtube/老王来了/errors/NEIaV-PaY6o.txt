@@ -1,0 +1,6 @@
+video_id: NEIaV-PaY6o
+title: 美国不再民主｜从灯塔到利益，评未来三十年五大矛盾之下的美国可控衰落。
+url: https://www.youtube.com/watch?v=NEIaV-PaY6o
+tab: streams
+time: 2026-07-29 17:13:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/NEIaV-PaY6o.%(ext)s', 'https://www.youtube.com/watch?v=NEIaV-PaY6o'])

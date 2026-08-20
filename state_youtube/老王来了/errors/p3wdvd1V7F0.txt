@@ -1,0 +1,6 @@
+video_id: p3wdvd1V7F0
+title: 随便聊聊：CIA招募解放军打广告了，说我们国家在疯子手里，谁是疯子？｜冬奥会谷爱凌大翻车，中美两边不讨好
+url: https://www.youtube.com/watch?v=p3wdvd1V7F0
+tab: streams
+time: 2026-07-29 11:52:17
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/p3wdvd1V7F0.%(ext)s', 'https://www.youtube.com/watch?v=p3wdvd1V7F0'])

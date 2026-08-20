@@ -1,0 +1,6 @@
+video_id: wPR6eBrf5pE
+title: 新年庆典：2026新年快乐！祝福广大观众与教友们发大财！生活愉快！生日快乐！
+url: https://www.youtube.com/watch?v=wPR6eBrf5pE
+tab: streams
+time: 2026-07-29 12:40:42
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/wPR6eBrf5pE.%(ext)s', 'https://www.youtube.com/watch?v=wPR6eBrf5pE'])

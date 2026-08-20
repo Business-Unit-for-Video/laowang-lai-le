@@ -1,0 +1,6 @@
+video_id: mnNhQVKCT2M
+title: 对比黄光裕顾雏军，点评中国上市公司包装财技，揭秘资本大鳄饲养现金奶牛的技术
+url: https://www.youtube.com/watch?v=mnNhQVKCT2M
+tab: videos
+time: 2026-07-26 03:04:55
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/mnNhQVKCT2M.%(ext)s', 'https://www.youtube.com/watch?v=mnNhQVKCT2M'])

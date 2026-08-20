@@ -1,0 +1,6 @@
+video_id: tc5b6tnn3o4
+title: 美股大幅度下跌，是否构成投资机会？
+url: https://www.youtube.com/watch?v=tc5b6tnn3o4
+tab: videos
+time: 2026-07-20 21:22:41
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tc5b6tnn3o4.%(ext)s', 'https://www.youtube.com/watch?v=tc5b6tnn3o4'])

@@ -1,0 +1,6 @@
+video_id: f6dqh1e2oNE
+title: 慢聊老王台湾行：为什么老一代大陆人会莫名喜欢台湾？
+url: https://www.youtube.com/watch?v=f6dqh1e2oNE
+tab: streams
+time: 2026-07-29 11:29:23
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/f6dqh1e2oNE.%(ext)s', 'https://www.youtube.com/watch?v=f6dqh1e2oNE'])

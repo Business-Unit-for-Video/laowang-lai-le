@@ -1,0 +1,6 @@
+video_id: Nl6e_mj1mjE
+title: 拿兴教外遇少妇的困扰：我是廉价妓女还是享受人生？｜一大堆人生十字路口教友来信！拿兴教是棋盘路？
+url: https://www.youtube.com/watch?v=Nl6e_mj1mjE
+tab: streams
+time: 2026-07-29 16:15:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Nl6e_mj1mjE.%(ext)s', 'https://www.youtube.com/watch?v=Nl6e_mj1mjE'])

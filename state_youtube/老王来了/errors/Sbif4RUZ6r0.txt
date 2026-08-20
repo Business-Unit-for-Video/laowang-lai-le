@@ -1,0 +1,6 @@
+video_id: Sbif4RUZ6r0
+title: 你俩有完没完了🤣｜加拿大总理说的世界新秩序不等于僖宗的人类命运共同体｜聂卫平五大生活习惯导致过早去世｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=Sbif4RUZ6r0
+tab: streams
+time: 2026-07-29 12:17:34
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Sbif4RUZ6r0.%(ext)s', 'https://www.youtube.com/watch?v=Sbif4RUZ6r0'])

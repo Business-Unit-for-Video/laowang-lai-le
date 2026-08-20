@@ -1,0 +1,6 @@
+video_id: U5OOf0kPuP8
+title: 为什么白银市场后涨先跌｜周五玄学：冤魂索命纪委抓人｜小狗投胎做女儿的故事｜走路到越南的路线图
+url: https://www.youtube.com/watch?v=U5OOf0kPuP8
+tab: streams
+time: 2026-07-29 11:57:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/U5OOf0kPuP8.%(ext)s', 'https://www.youtube.com/watch?v=U5OOf0kPuP8'])

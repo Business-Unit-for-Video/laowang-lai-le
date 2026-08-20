@@ -1,0 +1,6 @@
+video_id: riKiRAHfFbk
+title: 老共抢钱：离岸变立案，21号文收割资本家13000亿！｜移民海外华裔富豪面临前所未有的危机：放血或通缉！｜加拿大华裔女生做中国间谍被北约刑拘，对所有华裔造成的威胁｜周末来信：分享梦里走阴
+url: https://www.youtube.com/watch?v=riKiRAHfFbk
+tab: streams
+time: 2026-08-08 01:51:01
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/riKiRAHfFbk.%(ext)s', 'https://www.youtube.com/watch?v=riKiRAHfFbk'])

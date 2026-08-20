@@ -1,0 +1,6 @@
+video_id: qfJ9tv_pnPs
+title: VIP直播：解剖拼多多7大死穴：为什么黄峥是个捅漏了天急着跑路的熊孩子！揭秘现在谁是真正的老板！新来的老板如何策划拼多多惊天改革逃避倒闭命运！他能成功吗？
+url: https://www.youtube.com/watch?v=qfJ9tv_pnPs
+tab: streams
+time: 2026-07-29 11:03:55
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/qfJ9tv_pnPs.%(ext)s', 'https://www.youtube.com/watch?v=qfJ9tv_pnPs'])

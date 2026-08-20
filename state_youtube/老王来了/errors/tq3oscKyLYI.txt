@@ -1,0 +1,6 @@
+video_id: tq3oscKyLYI
+title: 旁观巴以战争，作为中国族裔人，我们没有仇恨只有悲伤（第25分钟开始正片之前是金融相声）
+url: https://www.youtube.com/watch?v=tq3oscKyLYI
+tab: videos
+time: 2026-07-26 03:10:31
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/tq3oscKyLYI.%(ext)s', 'https://www.youtube.com/watch?v=tq3oscKyLYI'])

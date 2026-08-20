@@ -1,0 +1,6 @@
+video_id: S-jtx-PT0jA
+title: 武汉枪击案死者系黑道老大父子，被公开行刑式仇杀｜习派何宏军上将突然自杀｜国运时刻，北京度过两大关键节点｜疯狂科学家贺建奎挑战疯狂独裁者习老大｜
+url: https://www.youtube.com/watch?v=S-jtx-PT0jA
+tab: streams
+time: 2026-07-29 16:07:46
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/S-jtx-PT0jA.%(ext)s', 'https://www.youtube.com/watch?v=S-jtx-PT0jA'])

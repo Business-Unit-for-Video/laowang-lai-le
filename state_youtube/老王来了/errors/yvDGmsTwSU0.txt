@@ -1,0 +1,6 @@
+video_id: yvDGmsTwSU0
+title: 号外插播：加拿大大选关键时刻！起来！不愿去投票的人们！
+url: https://www.youtube.com/watch?v=yvDGmsTwSU0
+tab: streams
+time: 2026-07-29 17:28:07
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/yvDGmsTwSU0.%(ext)s', 'https://www.youtube.com/watch?v=yvDGmsTwSU0'])

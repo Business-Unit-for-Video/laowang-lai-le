@@ -1,0 +1,6 @@
+video_id: 38e9eo457m0
+title: 心灵按摩与算命，福祸相依凡人善用命书改命｜哈萨丫头的故事｜变性人能改命吗｜
+url: https://www.youtube.com/watch?v=38e9eo457m0
+tab: streams
+time: 2026-07-29 16:52:47
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/38e9eo457m0.%(ext)s', 'https://www.youtube.com/watch?v=38e9eo457m0'])

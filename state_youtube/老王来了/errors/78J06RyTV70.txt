@@ -1,0 +1,6 @@
+video_id: 78J06RyTV70
+title: VIP22：六四的八大冤种真相大揭密和岌岌可危的第九大冤种公安局长们
+url: https://www.youtube.com/watch?v=78J06RyTV70
+tab: streams
+time: 2026-07-29 15:22:43
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/78J06RyTV70.%(ext)s', 'https://www.youtube.com/watch?v=78J06RyTV70'])

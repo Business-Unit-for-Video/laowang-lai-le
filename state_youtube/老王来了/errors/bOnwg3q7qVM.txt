@@ -1,0 +1,6 @@
+video_id: bOnwg3q7qVM
+title: 邪教教主YOUTUBE治国，刚说完就有政策，看到这消息，我泪流满面
+url: https://www.youtube.com/watch?v=bOnwg3q7qVM
+tab: streams
+time: 2026-08-02 10:33:21
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/bOnwg3q7qVM.%(ext)s', 'https://www.youtube.com/watch?v=bOnwg3q7qVM'])

@@ -1,0 +1,6 @@
+video_id: TSWZ4XEJ5Kc
+title: 王洪文被叶剑英玩死｜毛泽东说他是刘盆子｜结局却比刘盆子惨一万倍｜王洪文研发聚能光子炮和太阳能打火机的故事
+url: https://www.youtube.com/watch?v=TSWZ4XEJ5Kc
+tab: streams
+time: 2026-07-29 13:00:40
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/TSWZ4XEJ5Kc.%(ext)s', 'https://www.youtube.com/watch?v=TSWZ4XEJ5Kc'])

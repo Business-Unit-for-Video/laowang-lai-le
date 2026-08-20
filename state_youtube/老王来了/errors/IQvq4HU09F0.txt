@@ -1,0 +1,6 @@
+video_id: IQvq4HU09F0
+title: 百刀会VIP：火运未来20年如何发大财｜论中美未来一代的商业机会
+url: https://www.youtube.com/watch?v=IQvq4HU09F0
+tab: streams
+time: 2026-07-29 12:58:51
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/IQvq4HU09F0.%(ext)s', 'https://www.youtube.com/watch?v=IQvq4HU09F0'])

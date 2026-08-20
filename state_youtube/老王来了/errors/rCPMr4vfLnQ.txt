@@ -1,0 +1,6 @@
+video_id: rCPMr4vfLnQ
+title: VIP12:特斯拉即将创造新低！｜抬头看见北极光5：二逼草莽金牛座与文化小人郎咸平｜江湖：为何有人善遇贵人而有人屡结仇人？
+url: https://www.youtube.com/watch?v=rCPMr4vfLnQ
+tab: streams
+time: 2026-07-29 15:44:49
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/rCPMr4vfLnQ.%(ext)s', 'https://www.youtube.com/watch?v=rCPMr4vfLnQ'])

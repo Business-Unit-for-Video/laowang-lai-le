@@ -1,0 +1,6 @@
+video_id: MPozrZr52J8
+title: VIP首播1：抬头望见北极光
+url: https://www.youtube.com/watch?v=MPozrZr52J8
+tab: streams
+time: 2026-07-29 18:31:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/MPozrZr52J8.%(ext)s', 'https://www.youtube.com/watch?v=MPozrZr52J8'])

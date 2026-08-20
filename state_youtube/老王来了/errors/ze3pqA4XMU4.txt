@@ -1,0 +1,6 @@
+video_id: ze3pqA4XMU4
+title: VIP直播：海航剧终：不能公开的秘密｜普通人如何正确混入政策决策圈我的经验｜我为什么反习不反党
+url: https://www.youtube.com/watch?v=ze3pqA4XMU4
+tab: streams
+time: 2026-07-29 13:41:44
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ze3pqA4XMU4.%(ext)s', 'https://www.youtube.com/watch?v=ze3pqA4XMU4'])

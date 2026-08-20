@@ -1,0 +1,6 @@
+video_id: H04Hl04QQX4
+title: 论美股迎来川普大熊市｜1，论美股底部与时间窗口。2，为什么中国不可能妥协。3，黄金与比特币的戏剧性未来。4，日本在MAGA新世界的定位与日元牛市。
+url: https://www.youtube.com/watch?v=H04Hl04QQX4
+tab: streams
+time: 2026-07-29 18:37:55
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/H04Hl04QQX4.%(ext)s', 'https://www.youtube.com/watch?v=H04Hl04QQX4'])

@@ -1,0 +1,6 @@
+video_id: l69fMPsXzpc
+title: AI进化的道路与英伟达不可避免的衰落
+url: https://www.youtube.com/watch?v=l69fMPsXzpc
+tab: streams
+time: 2026-07-29 11:37:33
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/l69fMPsXzpc.%(ext)s', 'https://www.youtube.com/watch?v=l69fMPsXzpc'])

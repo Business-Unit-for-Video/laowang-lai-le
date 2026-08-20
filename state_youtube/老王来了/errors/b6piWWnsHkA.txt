@@ -1,0 +1,6 @@
+video_id: b6piWWnsHkA
+title: VIP直播：解放军台海军情报告｜1，为什么一线兵力配置发生了质变？2，为什么最近不炸鱼了？3，揭秘消耗战术与火力分层闭锁？4，6项表格精确判断开战时间点。5，台军末日生存。。。
+url: https://www.youtube.com/watch?v=b6piWWnsHkA
+tab: streams
+time: 2026-07-29 11:11:33
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/b6piWWnsHkA.%(ext)s', 'https://www.youtube.com/watch?v=b6piWWnsHkA'])

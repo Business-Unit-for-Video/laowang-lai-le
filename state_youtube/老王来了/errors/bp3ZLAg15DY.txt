@@ -1,0 +1,6 @@
+video_id: bp3ZLAg15DY
+title: 百刀会大实话：拿幸教、军队腐败、婚姻咨询、中美战争和为什么不能欺负杨澜澜？
+url: https://www.youtube.com/watch?v=bp3ZLAg15DY
+tab: streams
+time: 2026-07-29 13:17:19
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/bp3ZLAg15DY.%(ext)s', 'https://www.youtube.com/watch?v=bp3ZLAg15DY'])

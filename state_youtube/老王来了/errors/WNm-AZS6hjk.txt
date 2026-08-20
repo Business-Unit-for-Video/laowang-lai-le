@@ -1,0 +1,6 @@
+video_id: WNm-AZS6hjk
+title: VIP百刀会直播时间通知｜周五早上10:00，北京周六凌晨1点！
+url: https://www.youtube.com/watch?v=WNm-AZS6hjk
+tab: streams
+time: 2026-07-29 13:43:32
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/WNm-AZS6hjk.%(ext)s', 'https://www.youtube.com/watch?v=WNm-AZS6hjk'])

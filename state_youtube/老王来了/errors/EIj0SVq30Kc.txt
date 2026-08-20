@@ -1,0 +1,6 @@
+video_id: EIj0SVq30Kc
+title: VIP32吴亦凡真相：他到底得罪了谁？
+url: https://www.youtube.com/watch?v=EIj0SVq30Kc
+tab: streams
+time: 2026-07-29 13:56:46
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/EIj0SVq30Kc.%(ext)s', 'https://www.youtube.com/watch?v=EIj0SVq30Kc'])

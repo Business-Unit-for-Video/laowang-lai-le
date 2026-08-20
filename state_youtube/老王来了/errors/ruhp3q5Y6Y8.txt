@@ -1,0 +1,6 @@
+video_id: ruhp3q5Y6Y8
+title: 周五玄学读信故事会：一个鬼害死三代人的故事｜逃离共产党警察原生家庭的故事｜迷茫的年轻人的故事｜女人追寻性高潮之路的故事
+url: https://www.youtube.com/watch?v=ruhp3q5Y6Y8
+tab: streams
+time: 2026-07-29 11:34:19
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ruhp3q5Y6Y8.%(ext)s', 'https://www.youtube.com/watch?v=ruhp3q5Y6Y8'])

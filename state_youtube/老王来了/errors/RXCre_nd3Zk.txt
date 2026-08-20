@@ -1,0 +1,6 @@
+video_id: RXCre_nd3Zk
+title: VIP20:抬头看见北极光（上部终）：黄金世纪机遇的发现与高德黄金和颐和黄金的分裂
+url: https://www.youtube.com/watch?v=RXCre_nd3Zk
+tab: streams
+time: 2026-07-29 15:25:58
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RXCre_nd3Zk.%(ext)s', 'https://www.youtube.com/watch?v=RXCre_nd3Zk'])

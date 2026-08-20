@@ -1,0 +1,6 @@
+video_id: YSX4l2w5Oro
+title: VIP直播：深度分析列治文海难真相与7条鲜活生命的价值，看完你会明白为什么放在会员频道！｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=YSX4l2w5Oro
+tab: streams
+time: 2026-07-26 09:38:03
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/YSX4l2w5Oro.%(ext)s', 'https://www.youtube.com/watch?v=YSX4l2w5Oro'])

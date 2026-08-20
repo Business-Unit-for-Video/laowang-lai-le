@@ -1,0 +1,6 @@
+video_id: jBrZBkuovJ4
+title: 今日蹭翟秀草蛇灰线埋几个猛料，BD经济学家评舒默访华及人民币汇率破8
+url: https://www.youtube.com/watch?v=jBrZBkuovJ4
+tab: videos
+time: 2026-07-26 03:08:19
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jBrZBkuovJ4.%(ext)s', 'https://www.youtube.com/watch?v=jBrZBkuovJ4'])

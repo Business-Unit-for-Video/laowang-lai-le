@@ -1,0 +1,6 @@
+video_id: Ub3JG3qCJ7s
+title: VIP17:复盘郭文贵得失，预测何时出狱？｜论时代人物的神学使命与悟性面板
+url: https://www.youtube.com/watch?v=Ub3JG3qCJ7s
+tab: streams
+time: 2026-07-29 15:34:57
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Ub3JG3qCJ7s.%(ext)s', 'https://www.youtube.com/watch?v=Ub3JG3qCJ7s'])

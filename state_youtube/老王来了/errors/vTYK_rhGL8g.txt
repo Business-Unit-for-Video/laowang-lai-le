@@ -1,0 +1,6 @@
+video_id: vTYK_rhGL8g
+title: 25万粉警告：抖音单季关键字搜索过亿！列入限流名单，在墙内肆意传播老王切片即将入刑｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=vTYK_rhGL8g
+tab: streams
+time: 2026-07-29 12:33:01
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/vTYK_rhGL8g.%(ext)s', 'https://www.youtube.com/watch?v=vTYK_rhGL8g'])

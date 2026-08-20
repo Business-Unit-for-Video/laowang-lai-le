@@ -1,0 +1,6 @@
+video_id: rp-OsuhoCwQ
+title: 如何合法转移财产，如何对敲换汇，论习近平的使命与洼地大洪水的时间线
+url: https://www.youtube.com/watch?v=rp-OsuhoCwQ
+tab: videos
+time: 2026-07-23 02:56:22
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/rp-OsuhoCwQ.%(ext)s', 'https://www.youtube.com/watch?v=rp-OsuhoCwQ'])

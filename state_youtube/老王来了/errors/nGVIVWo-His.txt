@@ -1,0 +1,6 @@
+video_id: nGVIVWo-His
+title: 百刀会VIP：《性欲与文明》一维人预言与老鼠帝国｜LGBT同性恋的陈胜吴广｜为什么西方发达国家都白左当道？｜了解美国白左与加拿大NDP的哲学源流｜成为老王来了的会员，获得干货提升知识纬度
+url: https://www.youtube.com/watch?v=nGVIVWo-His
+tab: streams
+time: 2026-08-06 02:25:03
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/nGVIVWo-His.%(ext)s', 'https://www.youtube.com/watch?v=nGVIVWo-His'])

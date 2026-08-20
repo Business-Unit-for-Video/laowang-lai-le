@@ -1,0 +1,6 @@
+video_id: 4bTn_Pwu8J4
+title: 为何习中风成为众望所归？｜论川普关税战与胡佛关税战的本质区别？
+url: https://www.youtube.com/watch?v=4bTn_Pwu8J4
+tab: streams
+time: 2026-07-29 18:34:48
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/4bTn_Pwu8J4.%(ext)s', 'https://www.youtube.com/watch?v=4bTn_Pwu8J4'])

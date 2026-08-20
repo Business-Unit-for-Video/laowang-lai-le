@@ -1,0 +1,6 @@
+video_id: alAV8yYfdYI
+title: 打响春节第一枪：温家宝春节贺卡檄文讨习｜谷刘两位冬奥会美女谶语映射的中美两种关系：太干收入VIP了
+url: https://www.youtube.com/watch?v=alAV8yYfdYI
+tab: streams
+time: 2026-07-29 11:48:47
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/alAV8yYfdYI.%(ext)s', 'https://www.youtube.com/watch?v=alAV8yYfdYI'])

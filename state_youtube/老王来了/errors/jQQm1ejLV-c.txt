@@ -1,0 +1,6 @@
+video_id: jQQm1ejLV-c
+title: 母亲节喝多了，睡不着聊聊天：论列治文人民共和国是世界上最好的中国人居住区
+url: https://www.youtube.com/watch?v=jQQm1ejLV-c
+tab: streams
+time: 2026-07-29 16:51:17
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/jQQm1ejLV-c.%(ext)s', 'https://www.youtube.com/watch?v=jQQm1ejLV-c'])

@@ -1,0 +1,6 @@
+video_id: IVYjFCeYJuU
+title: VIP直播：未来20年美国投资风口小型分布式社区储能电站商业计划｜分享如何发大财的思路
+url: https://www.youtube.com/watch?v=IVYjFCeYJuU
+tab: streams
+time: 2026-07-29 11:59:04
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/IVYjFCeYJuU.%(ext)s', 'https://www.youtube.com/watch?v=IVYjFCeYJuU'])

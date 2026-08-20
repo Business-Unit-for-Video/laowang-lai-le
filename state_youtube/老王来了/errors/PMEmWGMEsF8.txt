@@ -1,0 +1,6 @@
+video_id: PMEmWGMEsF8
+title: 快来看啊！央视的习张双核心镜头｜人民日报高级黑习近平，忽悠官员“自讨苦吃”｜云南“犬化儿”官方调查基本可信｜英国比特币女王钱志敏的犬化人生｜少妇回信｜一位母亲来信入选变态十强
+url: https://www.youtube.com/watch?v=PMEmWGMEsF8
+tab: streams
+time: 2026-07-29 13:30:39
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/PMEmWGMEsF8.%(ext)s', 'https://www.youtube.com/watch?v=PMEmWGMEsF8'])

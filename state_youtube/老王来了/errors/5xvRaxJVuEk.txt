@@ -1,0 +1,6 @@
+video_id: 5xvRaxJVuEk
+title: 逼习退位，不像内斗更像交班：论李嘉诚的投名状｜人币加币澳元汇率还有20%下跌空间｜論佛國佛教與佛法
+url: https://www.youtube.com/watch?v=5xvRaxJVuEk
+tab: streams
+time: 2026-07-29 19:29:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/5xvRaxJVuEk.%(ext)s', 'https://www.youtube.com/watch?v=5xvRaxJVuEk'])

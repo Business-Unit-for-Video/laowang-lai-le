@@ -1,0 +1,6 @@
+video_id: zkNpq6OuV5k
+title: 川普掀桌子不演了：只打中国｜未来的世界只有站队和战斗，人民币面临新低，热战一触即发
+url: https://www.youtube.com/watch?v=zkNpq6OuV5k
+tab: streams
+time: 2026-07-29 18:30:06
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/zkNpq6OuV5k.%(ext)s', 'https://www.youtube.com/watch?v=zkNpq6OuV5k'])

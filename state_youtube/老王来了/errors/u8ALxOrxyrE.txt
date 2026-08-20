@@ -1,0 +1,6 @@
+video_id: u8ALxOrxyrE
+title: VIP直播：川普访华和则两利！台湾命悬一线！｜黄仁勋为何最后一分钟上飞机｜台积电、NVDIA、特斯拉、苹果、DeepSeek、华为、 英特尔、AMD、谷歌、三星、海力士的未来：算力美元还是算力人民币
+url: https://www.youtube.com/watch?v=u8ALxOrxyrE
+tab: streams
+time: 2026-07-29 09:25:57
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/u8ALxOrxyrE.%(ext)s', 'https://www.youtube.com/watch?v=u8ALxOrxyrE'])

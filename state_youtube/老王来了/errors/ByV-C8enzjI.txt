@@ -1,0 +1,6 @@
+video_id: ByV-C8enzjI
+title: 爆炸新闻：美潜艇公海悍然击沉伊朗德纳号护卫舰｜上百伊朗海军官兵国耻级死亡｜波斯湾霍尔姆斯海峡梗阻大批中国货轮被困
+url: https://www.youtube.com/watch?v=ByV-C8enzjI
+tab: streams
+time: 2026-07-29 11:35:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ByV-C8enzjI.%(ext)s', 'https://www.youtube.com/watch?v=ByV-C8enzjI'])

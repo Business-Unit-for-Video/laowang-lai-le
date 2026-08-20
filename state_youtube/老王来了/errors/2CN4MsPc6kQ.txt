@@ -1,0 +1,6 @@
+video_id: 2CN4MsPc6kQ
+title: 中植系解密系列之一：伊春奠基，借资本运作腾飞
+url: https://www.youtube.com/watch?v=2CN4MsPc6kQ
+tab: videos
+time: 2026-07-20 19:58:07
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/2CN4MsPc6kQ.%(ext)s', 'https://www.youtube.com/watch?v=2CN4MsPc6kQ'])

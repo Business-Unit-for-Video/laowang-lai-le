@@ -1,0 +1,6 @@
+video_id: r0ONz5hD-1o
+title: 周末玄学：他要下台？解读洛阳元旦马碎奇观｜大错特错马斯克竟如此预言中国｜澳华人浮潜抓龙虾命丧鲨口｜这款APP火爆全网｜解读梁静茹关闭微博｜小少妇灵魂出壳初体验｜更多精彩内容尽在其中
+url: https://www.youtube.com/watch?v=r0ONz5hD-1o
+tab: streams
+time: 2026-07-29 12:24:29
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/r0ONz5hD-1o.%(ext)s', 'https://www.youtube.com/watch?v=r0ONz5hD-1o'])

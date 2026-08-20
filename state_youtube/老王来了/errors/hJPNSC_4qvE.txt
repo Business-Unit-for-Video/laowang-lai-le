@@ -1,0 +1,6 @@
+video_id: hJPNSC_4qvE
+title: VIP直播：揭秘共产党跨境控制王志安们的高招｜揭秘反共大V为什么突然亲共？｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=hJPNSC_4qvE
+tab: streams
+time: 2026-07-29 11:24:05
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/hJPNSC_4qvE.%(ext)s', 'https://www.youtube.com/watch?v=hJPNSC_4qvE'])

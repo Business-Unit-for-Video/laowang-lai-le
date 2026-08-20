@@ -1,0 +1,6 @@
+video_id: 8lwWAWskV4I
+title: 张又侠被抓了吗？中文政治自媒体大判断！｜川普是门罗的学生：论美帝国主义与边疆扩张的区别｜两封韩国教友来信｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=8lwWAWskV4I
+tab: streams
+time: 2026-07-29 12:13:38
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/8lwWAWskV4I.%(ext)s', 'https://www.youtube.com/watch?v=8lwWAWskV4I'])

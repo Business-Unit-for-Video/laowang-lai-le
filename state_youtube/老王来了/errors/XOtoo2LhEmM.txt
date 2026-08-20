@@ -1,0 +1,6 @@
+video_id: XOtoo2LhEmM
+title: 双倍浓度VIP：向忠发与顾顺章冤案大揭秘｜为什么他们被污名化｜周恩来的黑暗面｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=XOtoo2LhEmM
+tab: streams
+time: 2026-08-20 07:12:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/XOtoo2LhEmM.%(ext)s', 'https://www.youtube.com/watch?v=XOtoo2LhEmM'])

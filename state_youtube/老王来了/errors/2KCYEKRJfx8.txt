@@ -1,0 +1,6 @@
+video_id: 2KCYEKRJfx8
+title: 論天下大亂時代中国人的底线：小粉红好战不知战，讲讲长春围城的黑历史｜阴德耗尽，林彪为何惨遭灭门？｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=2KCYEKRJfx8
+tab: streams
+time: 2026-07-29 12:51:48
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/2KCYEKRJfx8.%(ext)s', 'https://www.youtube.com/watch?v=2KCYEKRJfx8'])

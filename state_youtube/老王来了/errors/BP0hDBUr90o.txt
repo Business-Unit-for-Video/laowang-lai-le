@@ -1,0 +1,6 @@
+video_id: BP0hDBUr90o
+title: Pink Team! New Balancers! 7月12日上午11:00 Garry Point鱼网针纪念碑下快闪不见不散！
+url: https://www.youtube.com/watch?v=BP0hDBUr90o
+tab: videos
+time: 2026-07-20 08:35:07
+error: RuntimeError('transcription is incomplete: audio=160.752s, transcript_end=20.000s, trailing_gap=140.752s, allowed=120.000s')

@@ -1,0 +1,6 @@
+video_id: q0db__EUC7U
+title: VIP26:哇哈哈完全大揭秘｜今日起百刀会半价了，欢迎成为老王来了的会员
+url: https://www.youtube.com/watch?v=q0db__EUC7U
+tab: streams
+time: 2026-07-29 15:10:39
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/q0db__EUC7U.%(ext)s', 'https://www.youtube.com/watch?v=q0db__EUC7U'])

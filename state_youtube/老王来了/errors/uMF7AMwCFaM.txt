@@ -1,0 +1,6 @@
+video_id: uMF7AMwCFaM
+title: 王纯抢了我的梦想，成为第一个飞上太空的中国普通人。
+url: https://www.youtube.com/watch?v=uMF7AMwCFaM
+tab: streams
+time: 2026-07-29 19:26:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/uMF7AMwCFaM.%(ext)s', 'https://www.youtube.com/watch?v=uMF7AMwCFaM'])

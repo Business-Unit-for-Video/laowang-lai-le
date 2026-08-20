@@ -1,0 +1,6 @@
+video_id: 7vyM6DBqTAo
+title: 玄学周末加更：弗洛伦萨女鬼亲历记｜女M征友｜男教友被猥亵｜巴西水晶矿区修行记
+url: https://www.youtube.com/watch?v=7vyM6DBqTAo
+tab: streams
+time: 2026-07-29 15:12:15
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/7vyM6DBqTAo.%(ext)s', 'https://www.youtube.com/watch?v=7vyM6DBqTAo'])

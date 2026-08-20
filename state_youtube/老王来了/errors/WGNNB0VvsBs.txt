@@ -1,0 +1,6 @@
+video_id: WGNNB0VvsBs
+title: Meet at Steveston Community Centre Library in Fisherman's Wharf, wearing pink!
+url: https://www.youtube.com/watch?v=WGNNB0VvsBs
+tab: streams
+time: 2026-07-28 15:37:17
+error: RuntimeError('transcription produced no text')

@@ -1,0 +1,6 @@
+video_id: blGT1GRGP9I
+title: 插播特大喜讯：美军一天报销哈梅内伊，下一个！下一个！｜别太担心AI，车到山前必有路，回忆机器朋克时代｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=blGT1GRGP9I
+tab: streams
+time: 2026-07-29 11:39:33
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/blGT1GRGP9I.%(ext)s', 'https://www.youtube.com/watch?v=blGT1GRGP9I'])

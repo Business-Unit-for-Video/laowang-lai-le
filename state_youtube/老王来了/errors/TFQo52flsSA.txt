@@ -1,0 +1,6 @@
+video_id: TFQo52flsSA
+title: 特斯拉股价将下跌到1XX美元｜黄金市场3000打底｜元老院答应习动武统一台湾的三个条件｜美国是否会放弃台湾，是否会变成第二个乌克兰？
+url: https://www.youtube.com/watch?v=TFQo52flsSA
+tab: streams
+time: 2026-07-29 19:34:16
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/TFQo52flsSA.%(ext)s', 'https://www.youtube.com/watch?v=TFQo52flsSA'])

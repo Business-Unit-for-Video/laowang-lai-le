@@ -1,0 +1,6 @@
+video_id: BIUgDzxZQB0
+title: 美股、黃金、瑞郎的邏輯｜习刚结束印支三国巡幸即遭背叛，新加坡国母澳洲总理也开始讼圣！
+url: https://www.youtube.com/watch?v=BIUgDzxZQB0
+tab: streams
+time: 2026-07-29 17:23:29
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/BIUgDzxZQB0.%(ext)s', 'https://www.youtube.com/watch?v=BIUgDzxZQB0'])

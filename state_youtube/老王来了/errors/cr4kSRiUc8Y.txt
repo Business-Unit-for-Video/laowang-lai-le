@@ -1,0 +1,6 @@
+video_id: cr4kSRiUc8Y
+title: 这是一期不能切片含反度太高的视频：张又侠亲历的13军腐败真相｜贵铝集团的来历｜张又侠为什么参加13军｜张又侠同袍崔国栋讨债被枪杀引发的连锁反应｜90年代全军经商的乱象回放
+url: https://www.youtube.com/watch?v=cr4kSRiUc8Y
+tab: streams
+time: 2026-07-29 13:35:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/cr4kSRiUc8Y.%(ext)s', 'https://www.youtube.com/watch?v=cr4kSRiUc8Y'])

@@ -1,0 +1,4 @@
+youtube_cookies.txt
+tmp_audio/
+*.pyc
+__pycache__/

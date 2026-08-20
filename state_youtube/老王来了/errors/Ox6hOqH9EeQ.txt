@@ -1,0 +1,6 @@
+video_id: Ox6hOqH9EeQ
+title: 干货第3期：A股原罪之假钞论，一小时单口戏说股市史，弄明白为什么A股一定会赔钱？
+url: https://www.youtube.com/watch?v=Ox6hOqH9EeQ
+tab: videos
+time: 2026-07-26 03:13:25
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Ox6hOqH9EeQ.%(ext)s', 'https://www.youtube.com/watch?v=Ox6hOqH9EeQ'])

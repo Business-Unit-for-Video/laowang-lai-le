@@ -1,0 +1,6 @@
+video_id: PPvTGL1ucw8
+title: 解密权贵突然年轻的黑暗产业链｜新疆新冠炼狱｜一个开局地狱模式的少年教友人生自救计划｜为何官司缠身孩子辍学｜上海地主的求救｜二婚家庭教育孩子的问题｜可怜的小圆子｜外甥女不是女儿请保持边界
+url: https://www.youtube.com/watch?v=PPvTGL1ucw8
+tab: streams
+time: 2026-07-29 13:28:35
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/PPvTGL1ucw8.%(ext)s', 'https://www.youtube.com/watch?v=PPvTGL1ucw8'])

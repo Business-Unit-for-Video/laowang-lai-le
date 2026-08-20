@@ -1,0 +1,6 @@
+video_id: ZnR2sUDVYZc
+title: 日本张又侠犬养毅｜大和中流砥柱是如何被当作绊脚石打倒的｜日本515事件之消灭犬养毅反革命集团与二战不回头点
+url: https://www.youtube.com/watch?v=ZnR2sUDVYZc
+tab: streams
+time: 2026-07-29 12:01:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ZnR2sUDVYZc.%(ext)s', 'https://www.youtube.com/watch?v=ZnR2sUDVYZc'])

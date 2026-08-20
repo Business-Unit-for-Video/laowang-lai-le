@@ -1,0 +1,6 @@
+video_id: gC7bFZFZXpQ
+title: VIP Livestream: Secrets of the Capital Market (1) Capital is Nothing But a Concubine for the Fami...
+url: https://www.youtube.com/watch?v=gC7bFZFZXpQ
+tab: streams
+time: 2026-07-29 11:27:20
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gC7bFZFZXpQ.%(ext)s', 'https://www.youtube.com/watch?v=gC7bFZFZXpQ'])

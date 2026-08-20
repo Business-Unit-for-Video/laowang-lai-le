@@ -1,0 +1,6 @@
+video_id: xFxFOn-1RS0
+title: 论郭美美收费为什么越来越贵？｜送给全天下的真爷们一句话：因为一次绿帽子离婚者非蠢即坏｜
+url: https://www.youtube.com/watch?v=xFxFOn-1RS0
+tab: streams
+time: 2026-07-29 18:36:20
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/xFxFOn-1RS0.%(ext)s', 'https://www.youtube.com/watch?v=xFxFOn-1RS0'])

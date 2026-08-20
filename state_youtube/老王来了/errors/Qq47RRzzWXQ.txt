@@ -1,0 +1,6 @@
+video_id: Qq47RRzzWXQ
+title: 闲聊几句张又侠出卖核机密的可能性｜沙利文站出来说话了，你不知道的中美军事交流内幕！
+url: https://www.youtube.com/watch?v=Qq47RRzzWXQ
+tab: streams
+time: 2026-07-29 12:05:29
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Qq47RRzzWXQ.%(ext)s', 'https://www.youtube.com/watch?v=Qq47RRzzWXQ'])

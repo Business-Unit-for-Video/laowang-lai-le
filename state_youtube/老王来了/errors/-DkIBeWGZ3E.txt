@@ -1,0 +1,6 @@
+video_id: -DkIBeWGZ3E
+title: 精品录播第10期：数字货币干货大揭秘｜普通人投资防骗指南
+url: https://www.youtube.com/watch?v=-DkIBeWGZ3E
+tab: videos
+time: 2026-07-21 03:43:57
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/-DkIBeWGZ3E.%(ext)s', 'https://www.youtube.com/watch?v=-DkIBeWGZ3E'])

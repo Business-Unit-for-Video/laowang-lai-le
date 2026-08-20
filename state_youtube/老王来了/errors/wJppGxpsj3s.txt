@@ -1,0 +1,6 @@
+video_id: wJppGxpsj3s
+title: 中美谁会是赢家？｜输赢46开｜打败川普的唯一手段：保持乌龟队形｜中国人民或许成最大赢家
+url: https://www.youtube.com/watch?v=wJppGxpsj3s
+tab: streams
+time: 2026-07-29 17:39:49
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/wJppGxpsj3s.%(ext)s', 'https://www.youtube.com/watch?v=wJppGxpsj3s'])

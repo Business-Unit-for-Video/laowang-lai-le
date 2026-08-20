@@ -1,0 +1,6 @@
+video_id: eWmr3h2OJcY
+title: 阵风战机败北，幻影2000咋办？
+url: https://www.youtube.com/watch?v=eWmr3h2OJcY
+tab: streams
+time: 2026-07-29 16:54:29
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/eWmr3h2OJcY.%(ext)s', 'https://www.youtube.com/watch?v=eWmr3h2OJcY'])

@@ -1,0 +1,6 @@
+video_id: cwuk4N4kKso
+title: 房地产回暖是假象，下跌大趋势不可阻挡（提纯自2025年2月22日直播内容））
+url: https://www.youtube.com/watch?v=cwuk4N4kKso
+tab: videos
+time: 2026-07-20 22:39:18
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/cwuk4N4kKso.%(ext)s', 'https://www.youtube.com/watch?v=cwuk4N4kKso'])

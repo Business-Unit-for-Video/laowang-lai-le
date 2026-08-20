@@ -1,0 +1,6 @@
+video_id: 5f8XYcl48bw
+title: 春节复工信号测试：马上发财马上健康｜无内容纯聊天
+url: https://www.youtube.com/watch?v=5f8XYcl48bw
+tab: streams
+time: 2026-07-29 11:46:48
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/5f8XYcl48bw.%(ext)s', 'https://www.youtube.com/watch?v=5f8XYcl48bw'])

@@ -1,0 +1,6 @@
+video_id: 4ErJYWHFxNc
+title: 资本之神巴菲特亮牌：选日本弃中国｜习四中全会退总书记保留国家主席军委主席｜泽连斯基瞄准红场阅兵，习头铁坚持亲自测试｜变性人的命运之树走向｜
+url: https://www.youtube.com/watch?v=4ErJYWHFxNc
+tab: streams
+time: 2026-07-29 17:00:51
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/4ErJYWHFxNc.%(ext)s', 'https://www.youtube.com/watch?v=4ErJYWHFxNc'])

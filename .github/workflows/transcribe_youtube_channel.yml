@@ -1,0 +1,254 @@
+name: 转写 YouTube 频道
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel_url:
+        description: "YouTube频道地址，例如 https://www.youtube.com/@channel"
+        required: true
+        type: string
+      destination:
+        description: "输出目录名，例如 laowang"
+        required: true
+        type: string
+      include_members:
+        description: "是否包含会员视频/会员直播"
+        required: false
+        default: false
+        type: boolean
+      output_root:
+        description: "统一输出根目录；留空时使用旧目录 youtube_channels"
+        required: false
+        default: ""
+        type: string
+      whisper_model:
+        description: "Whisper 模型"
+        required: false
+        default: "medium"
+        type: string
+      force_retranscribe:
+        description: "忽略既有完成状态和输出，重新转写全部视频"
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: "20 */6 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: youtube-channel-${{ inputs.destination || '老王来了' }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  transcribe-one:
+    runs-on: ubuntu-latest
+
+
+    env:
+      YOUTUBE_CHANNEL_URL: ${{ inputs.channel_url || 'https://www.youtube.com/@dlw2023' }}
+      DESTINATION: ${{ inputs.destination || '老王来了' }}
+      YOUTUBE_INCLUDE_MEMBERS: ${{ inputs.include_members || false }}
+      YOUTUBE_COOKIES_FILE: youtube_cookies.txt
+      WHISPER_MODEL: ${{ inputs.whisper_model || 'medium' }}
+      FORCE_RETRANSCRIBE: ${{ inputs.force_retranscribe || false }}
+      OUTPUT_ROOT: ${{ inputs.output_root || '' }}
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      WHISPER_INITIAL_PROMPT: 请将结果转录为简体中文。以下内容为中国大陆普通话口语。
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Install system packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg jq
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U "yt-dlp[default]" faster-whisper
+
+      - name: Show tool versions
+        run: |
+          python --version
+          pip --version
+          yt-dlp --version
+          deno --version
+
+      - name: Write cookies
+        shell: bash
+        run: |
+          cat > youtube_cookies.txt <<'EOF'
+          ${{ secrets.YOUTUBE_COOKIES }}
+          EOF
+
+      - name: Validate inputs
+        shell: bash
+        run: |
+          test -n "${YOUTUBE_CHANNEL_URL}" || (echo "channel_url is empty" && exit 1)
+          test -n "${DESTINATION}" || (echo "destination is empty" && exit 1)
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p state_youtube "${OUTPUT_ROOT:-youtube_channels}" tmp_audio scripts
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Compute safe destination
+        id: vars
+        shell: bash
+        run: |
+          SAFE_DEST=$(python - <<'PY'
+          import os, re
+          s = (os.environ.get("DESTINATION", "") or "").strip()
+          s = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", s)
+          s = re.sub(r"\s+", "_", s)
+          s = s.strip("._ ")
+          print((s[:80] or "default"))
+          PY
+          )
+          echo "safe_dest=$SAFE_DEST" >> "$GITHUB_OUTPUT"
+          echo "SAFE_DEST=$SAFE_DEST" >> "$GITHUB_ENV"
+
+      - name: Show current repo state
+        shell: bash
+        run: |
+          echo "===== branch ====="
+          git branch --show-current || true
+          echo
+          echo "===== channel_url ====="
+          echo "${YOUTUBE_CHANNEL_URL}"
+          echo
+          echo "===== include_members ====="
+          echo "${YOUTUBE_INCLUDE_MEMBERS}"
+          echo
+          echo "===== destination(raw) ====="
+          echo "${DESTINATION}"
+          echo
+          echo "===== destination(safe) ====="
+          echo "${SAFE_DEST}"
+          echo
+          echo "===== output root ====="
+          echo "${OUTPUT_ROOT:-youtube_channels}"
+          echo
+          echo "===== done count ====="
+          if [ -f "state_youtube/${SAFE_DEST}/done.txt" ]; then
+            wc -l "state_youtube/${SAFE_DEST}/done.txt"
+          else
+            echo "0 state_youtube/${SAFE_DEST}/done.txt"
+          fi
+          echo
+          echo "===== failed count ====="
+          if [ -f "state_youtube/${SAFE_DEST}/failed.txt" ]; then
+            wc -l "state_youtube/${SAFE_DEST}/failed.txt"
+          else
+            echo "0 state_youtube/${SAFE_DEST}/failed.txt"
+          fi
+          echo
+          echo "===== current progress ====="
+          if [ -f "state_youtube/${SAFE_DEST}/progress.json" ]; then
+            cat "state_youtube/${SAFE_DEST}/progress.json"
+          else
+            echo "no progress.json"
+          fi
+          echo
+          echo "===== current queue size ====="
+          if [ -f "state_youtube/${SAFE_DEST}/queue.json" ]; then
+            jq 'length' "state_youtube/${SAFE_DEST}/queue.json"
+          else
+            echo "no queue.json"
+          fi
+
+      - name: Probe one known video format
+        shell: bash
+        run: |
+          yt-dlp -vU \
+            --remote-components ejs:github \
+            --cookies youtube_cookies.txt \
+            -F "https://www.youtube.com/watch?v=-ekkxGk3yQg" || true
+
+      - name: Run one video
+        run: |
+          python scripts/transcribe_youtube_channel.py
+
+      - name: Show final repo state
+        if: always()
+        shell: bash
+        run: |
+          echo "===== final progress ====="
+          if [ -f "state_youtube/${SAFE_DEST}/progress.json" ]; then
+            cat "state_youtube/${SAFE_DEST}/progress.json"
+          else
+            echo "no progress.json"
+          fi
+          echo
+          echo "===== done count ====="
+          if [ -f "state_youtube/${SAFE_DEST}/done.txt" ]; then
+            wc -l "state_youtube/${SAFE_DEST}/done.txt"
+          else
+            echo "0 state_youtube/${SAFE_DEST}/done.txt"
+          fi
+          echo
+          echo "===== failed count ====="
+          if [ -f "state_youtube/${SAFE_DEST}/failed.txt" ]; then
+            wc -l "state_youtube/${SAFE_DEST}/failed.txt"
+          else
+            echo "0 state_youtube/${SAFE_DEST}/failed.txt"
+          fi
+          echo
+          echo "===== queue size ====="
+          if [ -f "state_youtube/${SAFE_DEST}/queue.json" ]; then
+            jq 'length' "state_youtube/${SAFE_DEST}/queue.json"
+          else
+            echo "no queue.json"
+          fi
+          echo
+          echo "===== output files ====="
+          find "${OUTPUT_ROOT:-youtube_channels}/${SAFE_DEST}" -type f | sort || true
+
+      - name: Trigger next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          FLAG="state_youtube/${SAFE_DEST}/continue.flag"
+
+          if [ -f "$FLAG" ]; then
+            echo "continue.flag exists, trigger next run"
+            sleep 15
+            gh workflow run ".github/workflows/transcribe_youtube_channel.yml" \
+              --ref "${GITHUB_REF_NAME}" \
+              -f channel_url="${YOUTUBE_CHANNEL_URL}" \
+              -f destination="${DESTINATION}" \
+              -f include_members="${YOUTUBE_INCLUDE_MEMBERS}" \
+              -f whisper_model="${WHISPER_MODEL}" \
+              -f force_retranscribe="${FORCE_RETRANSCRIBE}"
+          else
+            echo "continue.flag not found, stop here"
+          fi

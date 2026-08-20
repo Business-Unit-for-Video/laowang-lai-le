@@ -1,0 +1,6 @@
+video_id: OSS0rWbU7oE
+title: 印尼屠华元凶成为中国93阅兵贵宾｜天道轮回：揭秘印尼暴乱必排华真相！｜为什么屠夫不受惩罚而成为印尼英雄｜为什么中国政府忍气吞声不敢护侨！
+url: https://www.youtube.com/watch?v=OSS0rWbU7oE
+tab: streams
+time: 2026-04-07 20:39:33
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/OSS0rWbU7oE.%(ext)s', 'https://www.youtube.com/watch?v=OSS0rWbU7oE'])

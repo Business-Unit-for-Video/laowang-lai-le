@@ -1,0 +1,6 @@
+video_id: gg0oCjZpY8U
+title: 陈志的靠山到底是谁？福建清道夫的灭口式遣返｜五毛帮主李毅破防上演《骂金殿》，惨被党妈带走
+url: https://www.youtube.com/watch?v=gg0oCjZpY8U
+tab: streams
+time: 2026-07-29 12:29:23
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gg0oCjZpY8U.%(ext)s', 'https://www.youtube.com/watch?v=gg0oCjZpY8U'])

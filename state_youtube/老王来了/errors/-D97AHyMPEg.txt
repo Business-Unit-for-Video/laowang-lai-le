@@ -1,0 +1,6 @@
+video_id: -D97AHyMPEg
+title: VIP33稳定币的本质：从去中心化回到中心化｜为什么说稳定币才是人类的未来货币｜稳定币如何稳定｜为什么美国赢了第一局
+url: https://www.youtube.com/watch?v=-D97AHyMPEg
+tab: streams
+time: 2026-07-29 13:55:02
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/-D97AHyMPEg.%(ext)s', 'https://www.youtube.com/watch?v=-D97AHyMPEg'])

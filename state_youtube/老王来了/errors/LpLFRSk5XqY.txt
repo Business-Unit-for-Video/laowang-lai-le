@@ -1,0 +1,6 @@
+video_id: LpLFRSk5XqY
+title: 揭穿一切邪教：老王手把手教你制造邪教，宗教就是这样炼成的！｜论邪教与宗教的没有区别
+url: https://www.youtube.com/watch?v=LpLFRSk5XqY
+tab: streams
+time: 2026-07-29 16:13:54
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/LpLFRSk5XqY.%(ext)s', 'https://www.youtube.com/watch?v=LpLFRSk5XqY'])

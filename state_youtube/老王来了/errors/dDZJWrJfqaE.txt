@@ -1,0 +1,6 @@
+video_id: dDZJWrJfqaE
+title: VIP41直播：超级MBA货币金融课之黄金的合理价格区间预测
+url: https://www.youtube.com/watch?v=dDZJWrJfqaE
+tab: streams
+time: 2026-07-29 12:03:55
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/dDZJWrJfqaE.%(ext)s', 'https://www.youtube.com/watch?v=dDZJWrJfqaE'])

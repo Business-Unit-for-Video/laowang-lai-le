@@ -1,0 +1,6 @@
+video_id: XPUpaQ8IL4s
+title: 周五玄学之京华春梦了无痕｜卧槽特么咱们中国人又在温哥华丢人显眼了｜台湾真的被渗透成筛子了
+url: https://www.youtube.com/watch?v=XPUpaQ8IL4s
+tab: streams
+time: 2026-07-29 11:25:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/XPUpaQ8IL4s.%(ext)s', 'https://www.youtube.com/watch?v=XPUpaQ8IL4s'])

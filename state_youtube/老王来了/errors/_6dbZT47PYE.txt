@@ -1,0 +1,6 @@
+video_id: _6dbZT47PYE
+title: VIP36：美元、黄金与美股，如何抓住黄金大潮，揭秘颐和黄金的商业计划
+url: https://www.youtube.com/watch?v=_6dbZT47PYE
+tab: streams
+time: 2026-07-29 13:45:11
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/_6dbZT47PYE.%(ext)s', 'https://www.youtube.com/watch?v=_6dbZT47PYE'])

@@ -1,0 +1,6 @@
+video_id: IHBpylX-4BQ
+title: 10万粉履行承诺：真跳了！
+url: https://www.youtube.com/watch?v=IHBpylX-4BQ
+tab: videos
+time: 2026-07-21 01:49:42
+error: RuntimeError('transcription is incomplete: audio=240.288s, transcript_end=5.460s, trailing_gap=234.828s, allowed=120.000s')

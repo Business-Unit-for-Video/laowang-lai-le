@@ -1,0 +1,6 @@
+video_id: Cw-w7btEHh8
+title: 15万粉感恩：长夜漫漫无心睡眠，骂几句人！
+url: https://www.youtube.com/watch?v=Cw-w7btEHh8
+tab: streams
+time: 2026-07-29 17:36:00
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/Cw-w7btEHh8.%(ext)s', 'https://www.youtube.com/watch?v=Cw-w7btEHh8'])

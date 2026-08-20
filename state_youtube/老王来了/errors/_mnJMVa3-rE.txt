@@ -1,0 +1,6 @@
+video_id: _mnJMVa3-rE
+title: 川普怂了：中美贸易战第一回合结束，论川普犯了蒋委员长剿匪的错误！｜未来60日美股走势、黄金走势、日元、人民币走势清晰见底
+url: https://www.youtube.com/watch?v=_mnJMVa3-rE
+tab: streams
+time: 2026-07-29 16:49:34
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/_mnJMVa3-rE.%(ext)s', 'https://www.youtube.com/watch?v=_mnJMVa3-rE'])

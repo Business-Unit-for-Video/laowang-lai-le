@@ -1,0 +1,6 @@
+video_id: J1kJEuAIAMs
+title: VIP39直播：讲述十年白银战争，黄金才是终极泡沫
+url: https://www.youtube.com/watch?v=J1kJEuAIAMs
+tab: streams
+time: 2026-04-07 08:07:03
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/J1kJEuAIAMs.%(ext)s', 'https://www.youtube.com/watch?v=J1kJEuAIAMs'])

@@ -1,0 +1,6 @@
+video_id: hF2Ta6c0swU
+title: VIP14:马斯克命盘解析未来特斯拉走势｜黄泉路实景及下黄泉鬼道的法术（非专业人士在家勿练）｜密法若干，鬼事若干
+url: https://www.youtube.com/watch?v=hF2Ta6c0swU
+tab: streams
+time: 2026-07-29 15:40:32
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/hF2Ta6c0swU.%(ext)s', 'https://www.youtube.com/watch?v=hF2Ta6c0swU'])

@@ -1,0 +1,6 @@
+video_id: RIwagKAUltY
+title: 李大钊何来绞刑这么洋的死法？｜为什么是张作霖？｜为什么苏联对大使馆被砸睁一只眼闭一只眼？
+url: https://www.youtube.com/watch?v=RIwagKAUltY
+tab: streams
+time: 2026-07-29 17:34:15
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/RIwagKAUltY.%(ext)s', 'https://www.youtube.com/watch?v=RIwagKAUltY'])

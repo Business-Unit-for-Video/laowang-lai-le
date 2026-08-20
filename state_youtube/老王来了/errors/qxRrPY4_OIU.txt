@@ -1,0 +1,6 @@
+video_id: qxRrPY4_OIU
+title: 星舰13取得前所未有的成功，建仓SPCX股票的时候到了｜听反指之王分析理论上的股价最低点｜成为老王来了的会员
+url: https://www.youtube.com/watch?v=qxRrPY4_OIU
+tab: streams
+time: 2026-07-26 03:16:48
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/qxRrPY4_OIU.%(ext)s', 'https://www.youtube.com/watch?v=qxRrPY4_OIU'])

@@ -1,0 +1,6 @@
+video_id: XH4yujI4_Qw
+title: 周五欢乐玄学大放送：神与神棍，如何帮助亲人通过死亡大关，性力教的科学道理，赚了100万的您可以打赏我了
+url: https://www.youtube.com/watch?v=XH4yujI4_Qw
+tab: streams
+time: 2026-07-29 13:02:12
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/XH4yujI4_Qw.%(ext)s', 'https://www.youtube.com/watch?v=XH4yujI4_Qw'])

@@ -1,0 +1,6 @@
+video_id: KLYW14E5RQo
+title: 中共风向突变真相：为什么放过嘉诚打夹头｜老习家捞了多少？美国要出报告！｜周末玄学鬼故事（下）
+url: https://www.youtube.com/watch?v=KLYW14E5RQo
+tab: streams
+time: 2026-07-29 19:31:11
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/KLYW14E5RQo.%(ext)s', 'https://www.youtube.com/watch?v=KLYW14E5RQo'])

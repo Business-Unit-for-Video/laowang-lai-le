@@ -1,0 +1,6 @@
+video_id: qmcCsj687Fc
+title: 天下未乱回先乱｜党妈不让你知道的陕甘回乱史的现代余波
+url: https://www.youtube.com/watch?v=qmcCsj687Fc
+tab: streams
+time: 2026-07-29 10:58:46
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/qmcCsj687Fc.%(ext)s', 'https://www.youtube.com/watch?v=qmcCsj687Fc'])

@@ -1,0 +1,6 @@
+video_id: xQnrJPUF4NM
+title: 论男人为什么必须过女人关｜如何识别风水克男主人的凶宅和凶时｜加拿大女小留的勇敢分享：女留学生第一要学会保护自己
+url: https://www.youtube.com/watch?v=xQnrJPUF4NM
+tab: streams
+time: 2026-07-29 12:37:22
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/xQnrJPUF4NM.%(ext)s', 'https://www.youtube.com/watch?v=xQnrJPUF4NM'])

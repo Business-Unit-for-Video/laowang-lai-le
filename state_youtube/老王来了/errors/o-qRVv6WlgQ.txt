@@ -1,0 +1,6 @@
+video_id: o-qRVv6WlgQ
+title: 玄学故事1：｜苹果与英伟达的必然衰落｜人类的硅基进化与灵魂离体｜精准指向梦｜破产送外卖中年老板和他的自闭症儿子｜初中生平行世界亲历记｜闽南常亡魂｜
+url: https://www.youtube.com/watch?v=o-qRVv6WlgQ
+tab: streams
+time: 2026-07-29 10:55:09
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/o-qRVv6WlgQ.%(ext)s', 'https://www.youtube.com/watch?v=o-qRVv6WlgQ'])

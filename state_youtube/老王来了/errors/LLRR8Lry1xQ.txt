@@ -1,0 +1,6 @@
+video_id: LLRR8Lry1xQ
+title: 体制内男女（男男）关系的相乡心三大学｜论北理工同性恋大瓜！｜注：我不是同性恋！
+url: https://www.youtube.com/watch?v=LLRR8Lry1xQ
+tab: streams
+time: 2026-07-29 17:21:50
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/LLRR8Lry1xQ.%(ext)s', 'https://www.youtube.com/watch?v=LLRR8Lry1xQ'])
