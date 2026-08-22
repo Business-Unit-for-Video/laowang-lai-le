@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/UbGVfCBSlsM.%(ext)s', 'https://www.youtube.com/watch?v=UbGVfCBSlsM'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1030,
-  "queue_index": 391,
-  "updated_at": 1787363632,
-  "updated_at_readable": "2026-08-22 01:53:52",
-  "current_video_id": "UbGVfCBSlsM",
-  "current_title": "中美混战黄金狂飙，世界最大私人购金者曝光｜美元直逼近期最低点｜浦东机场大拦截，携程老板偷渡失败被捕｜观众来信时刻",
-  "current_url": "https://www.youtube.com/watch?v=UbGVfCBSlsM",
-  "current_tab": "streams"
+  "queue_index": 1030,
+  "updated_at": 1787382300,
+  "updated_at_readable": "2026-08-22 07:05:00"
 }
