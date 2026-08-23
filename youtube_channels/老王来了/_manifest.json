@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-08-22 18:51:36",
+  "generated_at": "2026-08-23 02:02:23",
   "items": [
     {
       "id": "yvFArtetfHo",
@@ -2733,6 +2733,13 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "CO2aSykCglY",
+      "title": "明天下午14:00-16:00一起去遛弯儿的意义！",
+      "url": "https://www.youtube.com/watch?v=CO2aSykCglY",
+      "tab": "streams",
+      "duration": null
     },
     {
       "id": "UbGVfCBSlsM",
