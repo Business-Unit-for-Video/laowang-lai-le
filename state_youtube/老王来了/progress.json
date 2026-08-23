@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/CO2aSykCglY.%(ext)s', 'https://www.youtube.com/watch?v=CO2aSykCglY'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1031,
-  "queue_index": 391,
-  "updated_at": 1787450557,
-  "updated_at_readable": "2026-08-23 02:02:37",
-  "current_video_id": "CO2aSykCglY",
-  "current_title": "明天下午14:00-16:00一起去遛弯儿的意义！",
-  "current_url": "https://www.youtube.com/watch?v=CO2aSykCglY",
-  "current_tab": "streams"
+  "queue_index": 1031,
+  "updated_at": 1787468710,
+  "updated_at_readable": "2026-08-23 07:05:10"
 }
