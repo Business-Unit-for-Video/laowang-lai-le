@@ -101,7 +101,7 @@ jobs:
         shell: bash
         run: |
           cat > youtube_cookies.txt <<'EOF'
-          ${{ secrets.YOUTUBE_COOKIES }}
+          ${{ secrets.YOUTUBE_SOURCE_COOKIE_FILE_LAOWANG }}
           EOF
 
       - name: Validate inputs
