@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-08-24 19:02:41",
+  "generated_at": "2026-08-25 01:55:38",
   "items": [
     {
       "id": "yvFArtetfHo",
@@ -2733,6 +2733,13 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "3icHahzm3G4",
+      "title": "国门何时彻底关闭：历史上中国的国门是如何关闭的",
+      "url": "https://www.youtube.com/watch?v=3icHahzm3G4",
+      "tab": "streams",
+      "duration": null
     },
     {
       "id": "UbGVfCBSlsM",
