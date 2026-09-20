@@ -1,0 +1,6 @@
+video_id: g1K1KU7RCCA
+title: VIP Livestream: Lao Wang’s Reflections on Running for Office, Welcome to the Brave New World of V...
+url: https://www.youtube.com/watch?v=g1K1KU7RCCA
+tab: streams
+time: 2026-09-20 05:00:12
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/g1K1KU7RCCA.%(ext)s', 'https://www.youtube.com/watch?v=g1K1KU7RCCA'])
