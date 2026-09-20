@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/UyV0Wv6-eSk.%(ext)s', 'https://www.youtube.com/watch?v=UyV0Wv6-eSk'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1045,
-  "queue_index": 397,
-  "updated_at": 1789886944,
-  "updated_at_readable": "2026-09-20 06:49:04",
-  "current_video_id": "UyV0Wv6-eSk",
-  "current_title": "VIP Roundtable: My Personal Experience Running in a Canadian Election! | Head over to the campaig...",
-  "current_url": "https://www.youtube.com/watch?v=UyV0Wv6-eSk",
+  "queue_index": 398,
+  "updated_at": 1789891543,
+  "updated_at_readable": "2026-09-20 08:05:43",
+  "current_video_id": "Fq4S-Me_b3I",
+  "current_title": "洪门与温哥华移民史｜周末读信与观众热聊",
+  "current_url": "https://www.youtube.com/watch?v=Fq4S-Me_b3I",
   "current_tab": "streams"
 }
