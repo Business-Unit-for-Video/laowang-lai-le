@@ -1,0 +1,6 @@
+video_id: ghveFh6OiI0
+title: 紧急通知：选前总动员之下周一9月28日晚二婚局喜宴！老王献歌献舞！诚招50名大温本地粉丝！联系李小姐：437-922-7753｜移步老王竞选频道查看详情
+url: https://www.youtube.com/watch?v=ghveFh6OiI0
+tab: streams
+time: 2026-09-23 21:33:42
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ghveFh6OiI0.%(ext)s', 'https://www.youtube.com/watch?v=ghveFh6OiI0'])

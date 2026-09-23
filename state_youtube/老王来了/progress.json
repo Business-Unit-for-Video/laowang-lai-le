@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ghveFh6OiI0.%(ext)s', 'https://www.youtube.com/watch?v=ghveFh6OiI0'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1019,
-  "queue_index": 1019,
-  "updated_at": 1790183293,
-  "updated_at_readable": "2026-09-23 17:08:13"
+  "queue_total": 1020,
+  "queue_index": 377,
+  "updated_at": 1790199222,
+  "updated_at_readable": "2026-09-23 21:33:42",
+  "current_video_id": "ghveFh6OiI0",
+  "current_title": "紧急通知：选前总动员之下周一9月28日晚二婚局喜宴！老王献歌献舞！诚招50名大温本地粉丝！联系李小姐：437-922-7753｜移步老王竞选频道查看详情",
+  "current_url": "https://www.youtube.com/watch?v=ghveFh6OiI0",
+  "current_tab": "streams"
 }
