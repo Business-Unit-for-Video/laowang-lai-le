@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1021,
-  "queue_index": 378,
-  "updated_at": 1790226338,
-  "updated_at_readable": "2026-09-24 05:05:38",
-  "current_video_id": "FzL_cCmiELU",
-  "current_title": "Become a member of Lao Wang's channel",
-  "current_url": "https://www.youtube.com/watch?v=FzL_cCmiELU",
-  "current_tab": "streams"
+  "queue_total": 1020,
+  "queue_index": 1020,
+  "updated_at": 1790250773,
+  "updated_at_readable": "2026-09-24 11:52:53"
 }
