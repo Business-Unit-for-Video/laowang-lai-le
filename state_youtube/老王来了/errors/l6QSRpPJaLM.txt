@@ -1,0 +1,6 @@
+video_id: l6QSRpPJaLM
+title: 习开始访美，川普身边没靠谱的中国政策顾问，美国又输了！｜任正非出面辟谣了｜张又侠终于彻底完蛋了
+url: https://www.youtube.com/watch?v=l6QSRpPJaLM
+tab: streams
+time: 2026-09-24 05:01:46
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/l6QSRpPJaLM.%(ext)s', 'https://www.youtube.com/watch?v=l6QSRpPJaLM'])
