@@ -97,12 +97,22 @@ jobs:
           yt-dlp --version
           deno --version
 
-      - name: Write cookies
+      - name: Write and validate YouTube cookies
         shell: bash
+        env:
+          YOUTUBE_COOKIE_EXPORT: ${{ secrets.YOUTUBE_SOURCE_COOKIE_FILE_LAOWANG }}
         run: |
-          cat > youtube_cookies.txt <<'EOF'
-          ${{ secrets.YOUTUBE_SOURCE_COOKIE_FILE_LAOWANG }}
-          EOF
+          python - <<'PY'
+          import os
+          from pathlib import Path
+
+          content = os.environ.get("YOUTUBE_COOKIE_EXPORT", "")
+          if not content.strip():
+              raise SystemExit("YOUTUBE_SOURCE_COOKIE_FILE_LAOWANG is missing or empty")
+          Path("youtube_cookies.txt").write_text(content, encoding="utf-8", newline="\n")
+          PY
+          python scripts/validate_youtube_cookies.py youtube_cookies.txt
+          chmod 600 youtube_cookies.txt
 
       - name: Validate inputs
         shell: bash
