@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/pf5CUVqdgjQ.%(ext)s', 'https://www.youtube.com/watch?v=pf5CUVqdgjQ'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1022,
-  "queue_index": 378,
-  "updated_at": 1790312683,
-  "updated_at_readable": "2026-09-25 05:04:43",
-  "current_video_id": "pf5CUVqdgjQ",
-  "current_title": "川普仅仅得到了熊猫，习得到了平起平坐的资格！",
-  "current_url": "https://www.youtube.com/watch?v=pf5CUVqdgjQ",
-  "current_tab": "streams"
+  "queue_index": 1022,
+  "updated_at": 1790337346,
+  "updated_at_readable": "2026-09-25 11:55:46"
 }
