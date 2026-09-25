@@ -1,15 +1,15 @@
 {
-  "status": "error",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/8ZvHrE4Lid4.%(ext)s', 'https://www.youtube.com/watch?v=8ZvHrE4Lid4'])",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/pf5CUVqdgjQ.%(ext)s', 'https://www.youtube.com/watch?v=pf5CUVqdgjQ'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1022,
-  "queue_index": 377,
-  "updated_at": 1790312572,
-  "updated_at_readable": "2026-09-25 05:02:52",
-  "current_video_id": "8ZvHrE4Lid4",
-  "current_title": "VIP直播：米犹复国黑历史之金册只写日本人｜犹太人是怎么逃离德国的",
-  "current_url": "https://www.youtube.com/watch?v=8ZvHrE4Lid4",
+  "queue_index": 378,
+  "updated_at": 1790312683,
+  "updated_at_readable": "2026-09-25 05:04:43",
+  "current_video_id": "pf5CUVqdgjQ",
+  "current_title": "川普仅仅得到了熊猫，习得到了平起平坐的资格！",
+  "current_url": "https://www.youtube.com/watch?v=pf5CUVqdgjQ",
   "current_tab": "streams"
 }
