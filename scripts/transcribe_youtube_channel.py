@@ -28,6 +28,14 @@ INITIAL_PROMPT = os.getenv("WHISPER_INITIAL_PROMPT", "").strip()
 
 AUDIO_FORMAT = os.getenv("AUDIO_FORMAT", "mp3")
 AUDIO_QUALITY = os.getenv("AUDIO_QUALITY", "7")
+YOUTUBE_FALLBACK_CLIENTS = [
+    client.strip()
+    for client in os.getenv(
+        "YOUTUBE_FALLBACK_CLIENTS",
+        "default,web_safari,web_embedded,android",
+    ).split(",")
+    if client.strip()
+]
 BEAM_SIZE = int(os.getenv("BEAM_SIZE", "1"))
 VAD_FILTER = os.getenv("VAD_FILTER", "1") in {"1", "true", "True"}
 TRANSCRIBE_CHUNK_SECONDS = int(os.getenv("TRANSCRIBE_CHUNK_SECONDS", "1800"))
@@ -141,6 +149,27 @@ def run(cmd: List[str], capture: bool = False, check: bool = True):
 def git_run(cmd: List[str], check: bool = True):
     log("[git] " + " ".join(cmd))
     return subprocess.run(cmd, text=True, check=check)
+
+
+def add_cookie_arg(cmd: List[str], enabled: bool = True) -> bool:
+    if not enabled or not COOKIES_FILE.exists() or COOKIES_FILE.stat().st_size == 0:
+        return False
+    cmd.extend(["--cookies", str(COOKIES_FILE)])
+    return True
+
+
+def fallback_client_spec(client: str) -> tuple[str, bool]:
+    """Map a short fallback name to a yt-dlp client spec and cookie policy."""
+    name = client.strip()
+    if name in {"android_vr", "tv_embedded"}:
+        return "", False
+    if name == "default":
+        return "default,web_embedded", True
+    if name == "web_safari":
+        return "web_safari,web_embedded,-tv_downgraded", True
+    if name == "android":
+        return "android;formats=missing_pot", False
+    return name, True
 
 
 def normalize_channel_url(url: str) -> str:
@@ -343,19 +372,37 @@ def download_audio(video_url: str, video_id: str) -> Path:
         raise ValueError(f"invalid cleaned url for {video_id}: {video_url}")
 
     outtmpl = str(TMP_DIR / f"{video_id}.%(ext)s")
-    cmd = ["yt-dlp", "--remote-components", "ejs:github"]
-    if COOKIES_FILE.exists():
-        cmd.extend(["--cookies", str(COOKIES_FILE)])
-    cmd.extend([
+    download_args = [
         "--no-playlist",
-        "-f", "ba/bestaudio",
+        "-f", "ba/bestaudio/best",
         "-x",
         "--audio-format", AUDIO_FORMAT,
         "--audio-quality", AUDIO_QUALITY,
         "-o", outtmpl,
         video_url
-    ])
-    run(cmd)
+    ]
+    cmd = ["yt-dlp", "--remote-components", "ejs:github"]
+    add_cookie_arg(cmd)
+    try:
+        run(cmd + download_args)
+    except subprocess.CalledProcessError as first_error:
+        last_error = first_error
+        for client in YOUTUBE_FALLBACK_CLIENTS:
+            client_spec, use_cookies = fallback_client_spec(client)
+            if not client_spec:
+                log(f"[info] skipping unsupported cookie client: {client}")
+                continue
+            fallback_cmd = ["yt-dlp", "--remote-components", "ejs:github"]
+            add_cookie_arg(fallback_cmd, enabled=use_cookies)
+            fallback_cmd.extend(["--extractor-args", f"youtube:player_client={client_spec}"])
+            log(f"[warn] default YouTube client failed; retrying player client: {client_spec}")
+            try:
+                run(fallback_cmd + download_args)
+                break
+            except subprocess.CalledProcessError as exc:
+                last_error = exc
+        else:
+            raise last_error
 
     files = [p for p in TMP_DIR.glob(f"{video_id}.*") if p.is_file() and not p.name.endswith(".part")]
     if not files:
