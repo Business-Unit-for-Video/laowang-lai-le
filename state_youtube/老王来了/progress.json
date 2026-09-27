@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/8kNxP1-Obzo.%(ext)s', 'https://www.youtube.com/watch?v=8kNxP1-Obzo'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1023,
-  "queue_index": 1023,
-  "updated_at": 1790528494,
-  "updated_at_readable": "2026-09-27 17:01:34"
+  "queue_total": 1024,
+  "queue_index": 378,
+  "updated_at": 1790544278,
+  "updated_at_readable": "2026-09-27 21:24:38",
+  "current_video_id": "8kNxP1-Obzo",
+  "current_title": "中国为什么不打掉缅北诈骗园区｜论电诈行业对维稳的重要战略意义｜成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=8kNxP1-Obzo",
+  "current_tab": "streams"
 }
