@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1025,
-  "queue_index": 1,
-  "updated_at": 1790835887,
-  "updated_at_readable": "2026-10-01 06:24:47",
-  "current_video_id": "V12gAQ_arPE",
-  "current_title": "Why Tao Chengzhang Obsessively Challenged Sun Yat-sen: The Mystery of Revolutionary Funding",
-  "current_url": "https://www.youtube.com/watch?v=V12gAQ_arPE",
-  "current_tab": "videos"
+  "queue_index": 1025,
+  "updated_at": 1790861065,
+  "updated_at_readable": "2026-10-01 13:24:25"
 }
