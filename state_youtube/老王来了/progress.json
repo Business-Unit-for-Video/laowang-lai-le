@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gDIb5aMJ490.%(ext)s', 'https://www.youtube.com/watch?v=gDIb5aMJ490'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1026,
-  "queue_index": 379,
-  "updated_at": 1790979519,
-  "updated_at_readable": "2026-10-02 22:18:39",
-  "current_video_id": "gDIb5aMJ490",
-  "current_title": "开播三周年纪念暨32万粉达成特别节目！",
-  "current_url": "https://www.youtube.com/watch?v=gDIb5aMJ490",
-  "current_tab": "streams"
+  "queue_index": 1026,
+  "updated_at": 1791005027,
+  "updated_at_readable": "2026-10-03 05:23:47"
 }
