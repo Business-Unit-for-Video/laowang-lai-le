@@ -1,0 +1,6 @@
+video_id: N7yohQ3zvCM
+title: 黑党史：中国大陆人民第一次发现共产党是恶政的天安门四五运动，揭秘文革中为什么突然批水浒，大批宋江投降派是闹哪样？周恩来投靠谁家的朝庭？你不知道的中美关系史！
+url: https://www.youtube.com/watch?v=N7yohQ3zvCM
+tab: streams
+time: 2026-10-06 00:07:12
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/N7yohQ3zvCM.%(ext)s', 'https://www.youtube.com/watch?v=N7yohQ3zvCM'])
