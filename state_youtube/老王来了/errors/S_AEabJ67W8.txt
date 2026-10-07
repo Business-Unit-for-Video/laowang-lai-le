@@ -1,0 +1,6 @@
+video_id: S_AEabJ67W8
+title: VIP直播：中国经济将更换发动机！
+url: https://www.youtube.com/watch?v=S_AEabJ67W8
+tab: streams
+time: 2026-10-07 23:09:10
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/S_AEabJ67W8.%(ext)s', 'https://www.youtube.com/watch?v=S_AEabJ67W8'])

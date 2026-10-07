@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-10-07 13:31:03",
+  "generated_at": "2026-10-07 23:08:49",
   "items": [
     {
       "id": "NTdkK27s-uk",
@@ -2663,6 +2663,13 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "S_AEabJ67W8",
+      "title": "VIP直播：中国经济将更换发动机！",
+      "url": "https://www.youtube.com/watch?v=S_AEabJ67W8",
+      "tab": "streams",
+      "duration": null
     },
     {
       "id": "N7yohQ3zvCM",
