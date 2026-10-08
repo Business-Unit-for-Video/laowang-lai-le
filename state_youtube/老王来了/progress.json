@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/ViajWLzn0K8.%(ext)s', 'https://www.youtube.com/watch?v=ViajWLzn0K8'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1031,
-  "queue_index": 1031,
-  "updated_at": 1791466632,
-  "updated_at_readable": "2026-10-08 13:37:12"
+  "queue_total": 1032,
+  "queue_index": 3,
+  "updated_at": 1791501907,
+  "updated_at_readable": "2026-10-08 23:25:07",
+  "current_video_id": "ViajWLzn0K8",
+  "current_title": "林彪之死",
+  "current_url": "https://www.youtube.com/watch?v=ViajWLzn0K8",
+  "current_tab": "videos"
 }
