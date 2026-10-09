@@ -2,8 +2,15 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-10-08 23:24:50",
+  "generated_at": "2026-10-09 06:15:14",
   "items": [
+    {
+      "id": "ViajWLzn0K8",
+      "title": "林彪之死",
+      "url": "https://www.youtube.com/watch?v=ViajWLzn0K8",
+      "tab": "videos",
+      "duration": 10071
+    },
     {
       "id": "NTdkK27s-uk",
       "title": "WWII History: The Battle of Midway",
@@ -17,13 +24,6 @@
       "url": "https://www.youtube.com/watch?v=Z8Cre6HmTOc",
       "tab": "videos",
       "duration": 3179
-    },
-    {
-      "id": "ViajWLzn0K8",
-      "title": "林彪之死",
-      "url": "https://www.youtube.com/watch?v=ViajWLzn0K8",
-      "tab": "videos",
-      "duration": null
     },
     {
       "id": "V12gAQ_arPE",
@@ -2694,7 +2694,7 @@
     },
     {
       "id": "gDIb5aMJ490",
-      "title": "开播三周年纪念暨32万粉达成特别节目！",
+      "title": "3rd Anniversary and 320,000 Subscriber Special!",
       "url": "https://www.youtube.com/watch?v=gDIb5aMJ490",
       "tab": "streams",
       "duration": 5751
