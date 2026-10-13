@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-10-13 14:18:05",
+  "generated_at": "2026-10-13 22:50:07",
   "items": [
     {
       "id": "odvEn5AjKzw",
@@ -2677,6 +2677,13 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "3ZoFdudycFo",
+      "title": "千古罪人张学良",
+      "url": "https://www.youtube.com/watch?v=3ZoFdudycFo",
+      "tab": "streams",
+      "duration": null
     },
     {
       "id": "-8RhmZH9P7g",
