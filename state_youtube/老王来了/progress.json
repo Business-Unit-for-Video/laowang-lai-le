@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/cr_T6UaAeoA.%(ext)s', 'https://www.youtube.com/watch?v=cr_T6UaAeoA'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1038,
-  "queue_index": 1038,
-  "updated_at": 1792416350,
-  "updated_at_readable": "2026-10-19 13:25:50"
+  "queue_total": 1039,
+  "queue_index": 1,
+  "updated_at": 1792448694,
+  "updated_at_readable": "2026-10-19 22:24:54",
+  "current_video_id": "cr_T6UaAeoA",
+  "current_title": "日俄战争：日本如何取胜俄国",
+  "current_url": "https://www.youtube.com/watch?v=cr_T6UaAeoA",
+  "current_tab": "videos"
 }
