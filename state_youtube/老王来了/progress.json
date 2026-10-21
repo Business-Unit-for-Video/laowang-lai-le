@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/VyEjX1qgvGE.%(ext)s', 'https://www.youtube.com/watch?v=VyEjX1qgvGE'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1039,
-  "queue_index": 1039,
-  "updated_at": 1792532467,
-  "updated_at_readable": "2026-10-20 21:41:07"
+  "queue_total": 1040,
+  "queue_index": 1,
+  "updated_at": 1792558579,
+  "updated_at_readable": "2026-10-21 04:56:19",
+  "current_video_id": "VyEjX1qgvGE",
+  "current_title": "Why Does the U.S. Always Want to Annex Canada?",
+  "current_url": "https://www.youtube.com/watch?v=VyEjX1qgvGE",
+  "current_tab": "videos"
 }
