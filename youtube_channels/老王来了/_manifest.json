@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-10-21 21:46:50",
+  "generated_at": "2026-10-22 04:56:03",
   "items": [
     {
       "id": "VyEjX1qgvGE",
@@ -2698,6 +2698,20 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "7TN3p571LZ8",
+      "title": "加拿大政治科普：什么叫捧着金碗要饭，这次BC省选非常重要！听听列治文总票头的观点！",
+      "url": "https://www.youtube.com/watch?v=7TN3p571LZ8",
+      "tab": "streams",
+      "duration": null
+    },
+    {
+      "id": "FRoTx1pELVA",
+      "title": "加拿大政治科普：什么叫捧着金碗要饭，这次BC省选非常重要！听听列治文总票头的观点！",
+      "url": "https://www.youtube.com/watch?v=FRoTx1pELVA",
+      "tab": "streams",
+      "duration": 2741
     },
     {
       "id": "eA4TX_qTa74",
