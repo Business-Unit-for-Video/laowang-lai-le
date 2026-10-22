@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/FRoTx1pELVA.%(ext)s', 'https://www.youtube.com/watch?v=FRoTx1pELVA'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1042,
-  "queue_index": 387,
-  "updated_at": 1792645075,
-  "updated_at_readable": "2026-10-22 04:57:55",
-  "current_video_id": "FRoTx1pELVA",
-  "current_title": "加拿大政治科普：什么叫捧着金碗要饭，这次BC省选非常重要！听听列治文总票头的观点！",
-  "current_url": "https://www.youtube.com/watch?v=FRoTx1pELVA",
-  "current_tab": "streams"
+  "queue_index": 1042,
+  "updated_at": 1792670350,
+  "updated_at_readable": "2026-10-22 11:59:10"
 }
