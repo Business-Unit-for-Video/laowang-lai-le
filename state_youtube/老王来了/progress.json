@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/oSbOAdsc6r4.%(ext)s', 'https://www.youtube.com/watch?v=oSbOAdsc6r4'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1049,
-  "queue_index": 388,
-  "updated_at": 1793339750,
-  "updated_at_readable": "2026-10-30 05:55:50",
-  "current_video_id": "oSbOAdsc6r4",
-  "current_title": "长夜漫漫无心睡眠：习家族进入整肃自己人的时代：论栗战书被查与中国新稳态｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=oSbOAdsc6r4",
-  "current_tab": "streams"
+  "queue_index": 1049,
+  "updated_at": 1793365325,
+  "updated_at_readable": "2026-10-30 13:02:05"
 }
