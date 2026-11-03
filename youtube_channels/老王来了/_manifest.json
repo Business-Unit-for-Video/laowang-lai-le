@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-11-02 16:04:41",
+  "generated_at": "2026-11-03 01:02:19",
   "items": [
     {
       "id": "xSjM3P9KZp4",
@@ -31,6 +31,13 @@
       "url": "https://www.youtube.com/watch?v=cr_T6UaAeoA",
       "tab": "videos",
       "duration": 8397
+    },
+    {
+      "id": "vIHwtBIXEyk",
+      "title": "How the Emperors and Princes Lived After the Fall of the Qing Dynasty",
+      "url": "https://www.youtube.com/watch?v=vIHwtBIXEyk",
+      "tab": "videos",
+      "duration": null
     },
     {
       "id": "xocjtjOug4U",
