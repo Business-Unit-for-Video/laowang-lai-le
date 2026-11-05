@@ -1,0 +1,6 @@
+video_id: gEPMUOjU9dY
+title: 老王竞选大翻车：全网公开道歉！｜请移步老王竞选频道！
+url: https://www.youtube.com/watch?v=gEPMUOjU9dY
+tab: streams
+time: 2026-09-05 04:41:21
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--cookies', 'youtube_cookies.txt', '--no-playlist', '-f', 'ba/bestaudio', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/gEPMUOjU9dY.%(ext)s', 'https://www.youtube.com/watch?v=gEPMUOjU9dY'])
