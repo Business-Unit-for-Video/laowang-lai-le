@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-11-11 06:34:31",
+  "generated_at": "2026-11-11 22:45:20",
   "items": [
     {
       "id": "F1oBLVhSqAk",
@@ -2677,6 +2677,13 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "5U4FXdmEls8",
+      "title": "VIP直播：《黄仁勋调查报告》｜成为老王来了的会员｜全网首播曝光走私全程",
+      "url": "https://www.youtube.com/watch?v=5U4FXdmEls8",
+      "tab": "streams",
+      "duration": null
     },
     {
       "id": "9c06E26tEGU",
