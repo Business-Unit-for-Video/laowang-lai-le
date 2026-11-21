@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/or59lIvHAbY.%(ext)s', 'https://www.youtube.com/watch?v=or59lIvHAbY'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1049,
-  "queue_index": 1049,
-  "updated_at": 1795194055,
-  "updated_at_readable": "2026-11-20 17:00:55"
+  "queue_total": 1050,
+  "queue_index": 384,
+  "updated_at": 1795245593,
+  "updated_at_readable": "2026-11-21 07:19:53",
+  "current_video_id": "or59lIvHAbY",
+  "current_title": "周末来信交流：与北京经侦打交道的经历｜如何建立一家资产重组业务为主的投资银行｜大姨附体记｜成为老王来了的会员",
+  "current_url": "https://www.youtube.com/watch?v=or59lIvHAbY",
+  "current_tab": "streams"
 }
