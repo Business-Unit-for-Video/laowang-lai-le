@@ -1,15 +1,11 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/G5ImSv0KE6M.%(ext)s', 'https://www.youtube.com/watch?v=G5ImSv0KE6M'])",
+  "status": "finished",
+  "note": "all items completed",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
   "queue_total": 1051,
-  "queue_index": 384,
-  "updated_at": 1795420056,
-  "updated_at_readable": "2026-11-23 07:47:36",
-  "current_video_id": "G5ImSv0KE6M",
-  "current_title": "周末直播（下）：5分钟后信号正常，手把手教你如何创立一家垃圾债券破产重组投资银行｜成为老王来了的会员",
-  "current_url": "https://www.youtube.com/watch?v=G5ImSv0KE6M",
-  "current_tab": "streams"
+  "queue_index": 1051,
+  "updated_at": 1795465101,
+  "updated_at_readable": "2026-11-23 20:18:21"
 }
