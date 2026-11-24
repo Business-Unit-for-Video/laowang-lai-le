@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/o_2tHSznNKg.%(ext)s', 'https://www.youtube.com/watch?v=o_2tHSznNKg'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1051,
-  "queue_index": 1051,
-  "updated_at": 1795465101,
-  "updated_at_readable": "2026-11-23 20:18:21"
+  "queue_total": 1052,
+  "queue_index": 384,
+  "updated_at": 1795514448,
+  "updated_at_readable": "2026-11-24 10:00:48",
+  "current_video_id": "o_2tHSznNKg",
+  "current_title": "黄仁勋回归，美国也治大国如翻大饼！｜脸又被打肿了！不过我拿性教要给老黄供应细粮！｜",
+  "current_url": "https://www.youtube.com/watch?v=o_2tHSznNKg",
+  "current_tab": "streams"
 }
