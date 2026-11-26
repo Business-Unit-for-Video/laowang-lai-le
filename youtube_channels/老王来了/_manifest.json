@@ -2,7 +2,7 @@
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "generated_at": "2026-11-25 18:41:07",
+  "generated_at": "2026-11-26 08:35:37",
   "items": [
     {
       "id": "0KOQLlkhpag",
@@ -2684,6 +2684,20 @@
       "url": "https://www.youtube.com/watch?v=EXrZTTrj8lc",
       "tab": "videos",
       "duration": 614
+    },
+    {
+      "id": "ws6JXVFCusw",
+      "title": "VIP直播：搏一搏单车变劳斯，华尔街硬货讲座之SPX0DTE历史与实战｜成为老王来了的会员",
+      "url": "https://www.youtube.com/watch?v=ws6JXVFCusw",
+      "tab": "streams",
+      "duration": null
+    },
+    {
+      "id": "szziPbTXvhw",
+      "title": "VIP Livestream: High Stakes, High Rewards – Wall Street Masterclass on SPX 0DTE: History and Stra...",
+      "url": "https://www.youtube.com/watch?v=szziPbTXvhw",
+      "tab": "streams",
+      "duration": 2245
     },
     {
       "id": "o_2tHSznNKg",
