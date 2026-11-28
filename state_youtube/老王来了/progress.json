@@ -1,11 +1,15 @@
 {
-  "status": "finished",
-  "note": "all items completed",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/老王来了/56kGGVA5YY4.%(ext)s', 'https://www.youtube.com/watch?v=56kGGVA5YY4'])",
   "destination": "老王来了",
   "channel_url": "https://www.youtube.com/@dlw2023",
   "include_members": false,
-  "queue_total": 1054,
-  "queue_index": 1054,
-  "updated_at": 1795803339,
-  "updated_at_readable": "2026-11-27 18:15:39"
+  "queue_total": 1055,
+  "queue_index": 384,
+  "updated_at": 1795852630,
+  "updated_at_readable": "2026-11-28 07:57:10",
+  "current_video_id": "56kGGVA5YY4",
+  "current_title": "周末玄学来信：KK园区后勤大叔来信｜嫉妒大于仇恨，老王教大三女生如何控制内心黑化｜听王叔劝中产别瞎出国，21岁小伙反而更纠结留京还是去新澳｜梦见和尚与尼姑，和一首诗名字叫《八头》",
+  "current_url": "https://www.youtube.com/watch?v=56kGGVA5YY4",
+  "current_tab": "streams"
 }
